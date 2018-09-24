@@ -1,0 +1,24 @@
+_repo: Philip-Hale-s-Boston-Symphony-Programme-Notes_56208
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hale, Philip
+    gutenberg_agent_id: '48725'
+    url: http://www.gutenberg.org/2009/agents/48725
+  editor:
+    agent_name: Burk, John Naglee
+    gutenberg_agent_id: '48726'
+    url: http://www.gutenberg.org/2009/agents/48726
+description: ''
+gutenberg_issued: '2017-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56208'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Philip Hale's Boston Symphony Programme Notes
+url: http://www.gutenberg.org/ebooks/56208
